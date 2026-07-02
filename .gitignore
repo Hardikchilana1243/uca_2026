@@ -1,0 +1,13 @@
+# Java
+*.class
+
+#Logs
+*.log
+
+#Temprory files
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
