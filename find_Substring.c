@@ -3,7 +3,6 @@
 int find_substring(const char *haystack, const char *needle) {
     int i, j;
 
-    // If needle is empty, return 0
     if (needle[0] == '\0')
         return 0;
 
